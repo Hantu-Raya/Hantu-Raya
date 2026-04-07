@@ -9,7 +9,7 @@ I am a **Diploma Student** and aspiring **Web Developer**. I focus on turning my
 
 ### 🛠️ Technical Stack
 * **Languages:** HTML5, CSS3, JavaScript, PHP
-* **Tools:** Google Antigravity, Source 2 Engine (Modding)
+* **Tools:** Google Antigravity, Claude Code, Codex, CSDK (Modded Deadlock)
 
 ### 📬 Reach Out
 * **Email:** roslizaqwan@gmail.com
